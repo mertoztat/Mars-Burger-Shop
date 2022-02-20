@@ -1,5 +1,3 @@
 ## Mars-Burger-Shop 
 
-### Html + Css + Vanilla Javascript
-
-Live: 
+### Live: https://marsburger.netlify.app/
